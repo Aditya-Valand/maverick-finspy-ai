@@ -1,0 +1,5 @@
+flask
+flask-socketio
+langchain
+langchain_google_genai
+tqdm
