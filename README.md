@@ -57,16 +57,16 @@ Follow these steps to set up the project locally:
 ## Screenshots
 
 ### Home Page
-![Home Page](/home-page/src/assests/home.png)
+![Home Page](/home-page/src/assets/home.png)
 
 ### AI Assistant
-![AI Assistant](/home-page/src/assests/assistant.png)
+![AI Assistant](/home-page/src/assets/assistant.png)
 
 ### Contact Us
-![Contact Us](/home-page/src/assests/contactus.png)
+![Contact Us](/home-page/src/assets/contactus.png)
 
 ### About Us
-![Contact Us](/home-page/src/assests/aboutus.png)
+![Contact Us](/home-page/src/assets/aboutus.png)
 
 ## Technologies Used
 
